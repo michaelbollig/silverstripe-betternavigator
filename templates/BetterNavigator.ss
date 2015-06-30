@@ -54,8 +54,8 @@
 					<% end_if %>
 					
 					<a href="$Link?flush"><span class="bn-icon-flush"></span>Flush</a>
-					<a href="/dev/build/" target="_blank"><span class="bn-icon-db"></span>Build &amp Flush</a>
-					<a href="/dev/" target="_blank"><span class="bn-icon-tools"></span>Dev Menu</a>
+					<a href="dev/build/" target="_blank"><span class="bn-icon-db"></span>Build &amp Flush</a>
+					<a href="dev/" target="_blank"><span class="bn-icon-tools"></span>Dev Menu</a>
 					
 				</div>
 			
